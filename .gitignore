@@ -1,0 +1,7 @@
+# Ignore editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+/venv/
+venv/
